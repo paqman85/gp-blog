@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Glenn Paquette</title>
+    <link>https://glennpaquette.com/tags/</link>
+    <description>Recent content in Tags on Glenn Paquette</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://glennpaquette.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>celery</title>
+      <link>https://glennpaquette.com/tags/celery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://glennpaquette.com/tags/celery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dev ops</title>
+      <link>https://glennpaquette.com/tags/dev-ops/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://glennpaquette.com/tags/dev-ops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>heroku</title>
+      <link>https://glennpaquette.com/tags/heroku/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://glennpaquette.com/tags/heroku/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>https://glennpaquette.com/tags/python/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://glennpaquette.com/tags/python/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,71 @@
+baseURL: https://glennpaquette.com
+languageCode: en-us
+title: Glenn Paquette 
+theme: cupper-hugo-theme
+googleAnalytics: UA-167643472-1
+disqusShortname: glenn-paquette
+comment: true
+enableGitInfo: true
+
+taxonomies:
+  tag: tags
+
+permalinks:
+  post: /:filename/
+
+imaging:
+  quality: 99
+
+params:
+  description: Glenn is a Web Developer, Coffee Addict, Chess Enthusiast. This is my personal blog where I focus on Software Development - Python, Elixir, and More!
+  homeMetaContent: Personal blog where I focus on Software Development - Python, Elixir, and More!
+  footer: Made with [Hugo](https://gohugo.io/) by [Glenn Paquette](https://glennpaquette.com).
+  dateFormat: May 26, 2020
+  katex: true
+
+menu:
+  nav:
+    - name: Home
+      url: /
+      weight: 1
+    - name: About
+      url: /about/
+      weight: 2
+    - name: Blog
+      url: /post/
+      weight: 3
+    - name: Tags
+      url: /tags/
+      weight: 4
+
+
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    extensions:
+      definitionList: true
+      footnote: true
+      linkify: true
+      strikethrough: true
+      table: true
+      taskList: true
+      typographer: true
+    parser:
+      attribute: true
+      autoHeadingID: true
+    renderer:
+      hardWraps: false
+      unsafe: true
+      xHTML: false
+  highlight:
+    codeFences: false
+    hl_Lines: ""
+    lineNoStart: 1
+    lineNos: false
+    lineNumbersInTable: true
+    noClasses: true
+    style: monokai
+    tabWidth: 4
+  tableOfContents:
+    endLevel: 6
+    startLevel: 2

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Glenn Paquette</title>
+    <link>https://glennpaquette.com/</link>
+    <description>Recent content on Glenn Paquette</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 26 Jun 2017 18:27:58 +0100</lastBuildDate>
+    
+	<atom:link href="https://glennpaquette.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://glennpaquette.com/about/</link>
+      <pubDate>Sun, 24 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://glennpaquette.com/about/</guid>
+      <description>Howdy! I apreaciate that you&amp;rsquo;d like to know more about me. I&amp;rsquo;m a vetran officer of the Canadian Armed Forces and I&amp;rsquo;ve worked in various marketing leadership roles for 6 years before launching my web development company, Atomic Growth. I&amp;rsquo;m had a passion for technology since I was young, and taught myself programming and web development. I love to build projects with Python, Django, Elixir, Hugo, and Vue. I&amp;rsquo;m always looking to learn new technologies and I&amp;rsquo;m usualy working on some kind of side project.</description>
+    </item>
+    
+    <item>
+      <title>Monitoring Celery on Heroku with Flower</title>
+      <link>https://glennpaquette.com/heroku_flower/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://glennpaquette.com/heroku_flower/</guid>
+      <description>Monitoring Celery can be a drag! Use Flower on Heroku for Celery and make watching fun!&amp;hellip; or at least less boring&amp;hellip; [Credits](Photo by TOPHEE MARQUEZ from Pexels).   The Setting I built a small Django application for a client and launched it on Heroku. It takes posted data from a legacy application that the client is using for inventory management and sends it to their Shopify E-commerce store to keep everything in sync.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://glennpaquette.com/about/</loc>
+    <lastmod>2020-05-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://glennpaquette.com/</loc>
+    <lastmod>2017-06-26T18:27:58+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://glennpaquette.com/post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://glennpaquette.com/tags/celery/</loc>
+  </url>
+  
+  <url>
+    <loc>https://glennpaquette.com/tags/dev-ops/</loc>
+  </url>
+  
+  <url>
+    <loc>https://glennpaquette.com/tags/heroku/</loc>
+  </url>
+  
+  <url>
+    <loc>https://glennpaquette.com/heroku_flower/</loc>
+  </url>
+  
+  <url>
+    <loc>https://glennpaquette.com/tags/python/</loc>
+  </url>
+  
+  <url>
+    <loc>https://glennpaquette.com/tags/</loc>
+  </url>
+  
+</urlset>
