@@ -2,7 +2,7 @@
 title: "Wordpress Sucks. Let's Switch to Static Site Generators!"
 date: May 27, 2020
 draft: false
-tags: ["freelance", "netify", "static site generators", "portfolio"]
+tags: ["freelance", "static site generators", "portfolio"]
 toc: true
 ---
 
