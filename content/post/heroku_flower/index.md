@@ -7,7 +7,7 @@ toc: true
 ---
 {{< figureCupper
 img="celery_is_good_for_you.gif" 
-caption="Monitoring Celery can be a drag! Use Flower on Heroku for Celery and make watching fun!... or at least less boring.[Credits](Photo by TOPHEE MARQUEZ from Pexels)." 
+caption="Monitoring Celery can be a drag! Use Flower on Heroku for Celery and make watching fun!... or at least less boring." 
 command="Resize" 
 options="400x" >}}
 
