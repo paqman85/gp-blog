@@ -6,10 +6,10 @@ tags: ["python", "celery", "heroku", "dev ops"]
 toc: true
 ---
 {{< figureCupper
-img="celery_is_good_for_you.jpg" 
-caption="Monitoring Celery can be a drag! Use Flower on Heroku for Celery and make watching fun!... or at least less boring... [Credits](Photo by TOPHEE MARQUEZ from Pexels)." 
+img="celery_is_good_for_you.gif" 
+caption="Monitoring Celery can be a drag! Use Flower on Heroku for Celery and make watching fun!... or at least less boring.[Credits](Photo by TOPHEE MARQUEZ from Pexels)." 
 command="Resize" 
-options="700x" >}}
+options="400x" >}}
 
 ## The Setting
 

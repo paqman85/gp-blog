@@ -7,6 +7,8 @@ disqusShortname: glenn-paquette
 comment: true
 enableGitInfo: true
 
+enableEmoji: true
+
 taxonomies:
   tag: tags
 
