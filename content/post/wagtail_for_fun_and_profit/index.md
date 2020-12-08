@@ -1,7 +1,6 @@
 ---
 title: "Wagtail For Fun and Profit #1: The Story So Far"
-date: {{ .Date.Format "Wed, 23 Sep, 2020" }}
-
+date: 2020-09-23
 draft: false
 tags: ["freelance", "wagtail", "django","CMS"]
 toc: true

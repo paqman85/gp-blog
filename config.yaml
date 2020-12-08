@@ -22,7 +22,7 @@ params:
   description: Glenn is a Web Developer, Coffee Addict, Chess Enthusiast. This is my personal blog where I focus on Software Development - Python, Elixir, and More!
   homeMetaContent: Personal blog where I focus on Software Development - Python, Elixir, and More!
   footer: Made with [Hugo](https://gohugo.io/) by [Glenn Paquette](https://glennpaquette.com).
-  dateFormat: May 26, 2020
+  dateFormat: "Mon Jan 2 2006"
   katex: true
 
 menu:

@@ -1,6 +1,6 @@
 ---
 title: "Monitoring Celery on Heroku with Flower"
-date: "2020-05-26T14:15:59-06:00"
+date: 2020-05-26
 draft: false
 tags: ["python", "celery", "heroku", "dev ops"]
 toc: true
