@@ -1,12 +1,12 @@
 ---
 title: "Wagtail For Fun and Profit #1: The Story So Far"
-date: Sep 23, 2020
+date: "2020-09-25T12:30:00"
 draft: false
 tags: ["freelance", "wagtail", "django","CMS"]
 toc: true
 ---
 ![Wagtail For Fun And Profit #1 - Story So Far!](wagtail_ffap.png)
-*Originally Posted on [!Dev.to](https://dev.to/paqman85/wagtail-for-fun-and-profit-1-the-story-so-far-1l07)*
+*Originally Posted on [Dev.to](https://dev.to/paqman85/wagtail-for-fun-and-profit-1-the-story-so-far-1l07)*
 ## What is Wagtail
 
 Wagtail is a CMS built on top of Python Django. It has a beautiful UI and some wonderful features such as streamfields, intelligent images (choose the focal point of images), built-in A/B testing, a robust API for headless architecture. In my opinion, it's the best CMS for Django out there today. 
