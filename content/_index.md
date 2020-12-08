@@ -1,9 +1,9 @@
 ---
-date: "2017-06-26T18:27:58+01:00"
+date: "2020-12-08T"
 title: "Glenn Paquette"
 ---
 
-Glenn is a Web Developer, Coffee Addict, Chess Enthousiast. This is my personal blog where I focus on Software Development - Python, Elixir, and More!
+Glenn is a Web Developer, Coffee Addict, Chess Enthusiast. This is my personal blog, where I focus on Software Development - Python, Django, Wagtail, Elixir, and More!
 
 Find me at:
 {{< ticks >}}
